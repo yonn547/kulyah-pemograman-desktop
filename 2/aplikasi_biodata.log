@@ -1,0 +1,10 @@
+2026-11-12 18:59:15 - INFO - Aplikasi dimulai
+2026-11-12 18:59:38 - INFO - Aplikasi dimulai
+2026-11-12 19:54:12 - INFO - Aplikasi dimulai
+2026-11-12 19:54:20 - INFO - Login attempt for username: admin
+2026-11-12 19:54:20 - INFO - Successful login for user: admin
+2026-11-12 19:54:50 - INFO - Data submitted by user: admin - NIM: 25121
+2026-11-12 19:55:13 - INFO - Data submitted by user: admin - NIM: 25121
+2026-11-12 19:55:54 - INFO - User logout: admin
+2026-11-12 19:56:05 - INFO - Login attempt for username: admin
+2026-11-12 19:56:05 - WARNING - Failed login attempt for username: admin
